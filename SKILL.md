@@ -3,7 +3,7 @@
 > 让 AI 自动完成专业级 Prompt 重构，用户说人话即可
 
 **版本**：V3.0  
-**作者**：向前  
+**作者**：liyu9  
 **参考体系**：PromptPilot 工程化 Prompt 优化体系  
 **适用平台**：OpenClaw + 飞书多 Agent 环境
 
@@ -328,19 +328,8 @@ def after_reply_check(reply_content, task_level):
 
 ## 完整文档
 
-- 系统设计文档：https://feishu.cn/docx/He9Gdnpd4oTydyxSAZYcVQ1dnTc
+- 系统设计文档：联系作者获取
 - GitHub 仓库：https://github.com/liyu9/prompt-optimizer-skill
-
----
-
-## 更新日志
-
-| 版本 | 时间 | 核心修改 |
-|------|------|----------|
-| V0 | 2026-03-16 初版 | 初始方案（需求分级 + Agent 路由） |
-| V1 | 2026-03-16 优化 | 增加 L2-L3 展示优化思路 |
-| V2 | 2026-03-16 修正 | 承认错误 + 增加自检机制 |
-| V3 | 2026-03-16 完善 | 基于 PromptPilot 完善 + OpenClaw 融合 |
 
 ---
 

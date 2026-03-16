@@ -47,7 +47,6 @@
 
 | 文档 | 链接 |
 |------|------|
-| 完整设计文档 | https://feishu.cn/docx/He9Gdnpd4oTydyxSAZYcVQ1dnTc |
 | GitHub 仓库 | https://github.com/liyu9/prompt-optimizer-skill |
 | clawhub.ai | https://clawhub.ai/skills/prompt-optimizer-100 |
 
