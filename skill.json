@@ -2,7 +2,7 @@
   "name": "prompt-optimizer",
   "version": "3.0.0",
   "description": "Prompt 优化系统，让 AI 自动完成专业级 Prompt 重构，用户说人话即可",
-  "author": "liyu9",
+  "author": "yu7",
   "license": "MIT",
   "minOpenClawVersion": "2026.3.8",
   "keywords": ["prompt", "optimization", "agent", "feishu"],

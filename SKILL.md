@@ -3,7 +3,7 @@
 > 让 AI 自动完成专业级 Prompt 重构，用户说人话即可
 
 **版本**：V3.0  
-**作者**：liyu9  
+**作者**：yu7  
 **参考体系**：PromptPilot 工程化 Prompt 优化体系  
 **适用平台**：OpenClaw + 飞书多 Agent 环境
 
