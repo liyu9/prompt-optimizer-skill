@@ -6,11 +6,6 @@
   "license": "MIT",
   "minOpenClawVersion": "2026.3.8",
   "keywords": ["prompt", "optimization", "agent", "feishu"],
-  "homepage": "https://clawhub.ai/skills/prompt-optimizer-100",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/liyu9/prompt-optimizer-skill.git"
-  },
   "files": {
     "rules": ["rules/prompt-optimization.md"],
     "docs": ["SKILL.md", "README.md"]

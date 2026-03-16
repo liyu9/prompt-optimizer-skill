@@ -329,7 +329,6 @@ def after_reply_check(reply_content, task_level):
 ## 完整文档
 
 - 系统设计文档：联系作者获取
-- GitHub 仓库：https://github.com/liyu9/prompt-optimizer-skill
 
 ---
 

@@ -5,7 +5,6 @@
 [![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](https://clawhub.ai/skills/prompt-optimizer-100)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-%3E%3D2026.3.8-green.svg)](https://openclaw.ai)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Author](https://img.shields.io/badge/author-yu7-red.svg)](https://github.com/yu7)
 
 ---
 
@@ -48,7 +47,6 @@
 
 | 文档 | 链接 |
 |------|------|
-| GitHub 仓库 | https://github.com/liyu9/prompt-optimizer-skill |
 | clawhub.ai | https://clawhub.ai/skills/prompt-optimizer-100 |
 
 ---
