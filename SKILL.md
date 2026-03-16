@@ -14,8 +14,10 @@
 ### 方式 1：自动安装（推荐）
 
 ```bash
-openskills install prompt-optimizer
+openskills install prompt-optimizer-100
 ```
+
+> **注意**：clawhub.ai 上的 slug 为 `prompt-optimizer-100`，安装时请使用完整名称。
 
 ### 方式 2：手动安装
 
