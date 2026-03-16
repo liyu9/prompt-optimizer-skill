@@ -5,40 +5,15 @@
   "author": "向前",
   "license": "MIT",
   "minOpenClawVersion": "2026.3.8",
-  "dependencies": {
-    "memory-core": ">=1.0.0",
-    "feishu-plugin": ">=1.2.0"
-  },
   "keywords": ["prompt", "optimization", "agent", "feishu"],
-  "homepage": "https://clawhub.ai/skills/prompt-optimizer",
+  "homepage": "https://clawhub.ai/skills/prompt-optimizer-100",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-repo/prompt-optimizer.git"
+    "url": "https://github.com/liyu9/prompt-optimizer-skill.git"
   },
   "files": {
     "rules": ["rules/prompt-optimization.md"],
-    "templates": ["templates/response-templates.md"],
-    "scripts": ["scripts/install.sh", "scripts/verify.sh"],
     "docs": ["SKILL.md", "README.md"]
-  },
-  "install": {
-    "copy": [
-      {
-        "from": "rules/prompt-optimization.md",
-        "to": "memory/agent-notes.md",
-        "merge": true
-      }
-    ],
-    "run": ["scripts/install.sh"]
-  },
-  "verify": {
-    "run": ["scripts/verify.sh"],
-    "tests": [
-      "tests/l1-test.md",
-      "tests/l2-test.md",
-      "tests/l3-test.md",
-      "tests/l4-test.md"
-    ]
   },
   "features": {
     "taskClassification": {
@@ -61,7 +36,6 @@
   "clawhub": {
     "category": "productivity",
     "tags": ["prompt", "optimization", "agent", "feishu"],
-    "featured": false,
     "pricing": "free"
   }
 }
